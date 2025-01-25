@@ -1,5 +1,4 @@
 # hairstyle
-**😊If you have a lot of information to display on your site, why don't you use my accordion menu**
 
 ![7](https://github.com/user-attachments/assets/40851efd-6822-4c5e-87bc-9beb7070732f)
 ![8](https://github.com/user-attachments/assets/90bd0dc2-1052-4a62-9637-24423963e6c8)
